@@ -1,0 +1,17 @@
+.cover-image-container {
+  background-image: url('https://img.freepik.com/free-vector/seamless-pattern-fitness-accessories-flat-isolated-vector-illustration_98292-3904.jpg?w=900&t=st=1677322133~exp=1677322733~hmac=7102ea4f78b84bbb7f7ba3e0eabd2da924b3b75e7f5771b4bfb4a1ae97532377');
+  background-size: cover;
+  height: auto;
+  
+}
+.image{
+  text-align: center;
+}
+.content-1{
+  text-align: left;
+  font-weight: bold; 
+}
+.heading-1{
+  text-align: center;
+  font-weight: bold;
+}
